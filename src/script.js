@@ -15,7 +15,7 @@ var x = setInterval(function () {
             days + " days " + hours + " hours " + minutes + " minutes " + seconds + " seconds ";
     } else {
         clearInterval(x);
-        document.getElementById("counter").innerHTML = "🎉 Merry Christmas 2024, Suzan! 🎄";
+        document.getElementById("counter").innerHTML = "🎉 Merry Christmas 2024, Teman Teman! 🎄";
         document.getElementById("nextButtonContainer").style.display = 'block';
     }
 }, 1000);

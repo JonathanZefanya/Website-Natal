@@ -38,11 +38,11 @@ CREATE TABLE `wishes` (
 --
 
 INSERT INTO `wishes` (`id`, `wish`, `created_at`) VALUES
-(1, 'special for suzan', '2024-12-21 04:36:13'),
+(1, 'special for teman teman', '2024-12-21 04:36:13'),
 (2, 'test', '2024-12-21 06:33:15'),
 (3, 'testing', '2024-12-21 06:35:39'),
 (4, 'test', '2024-12-21 06:43:51'),
-(5, 'berharap yg terbaik untuk suzan', '2024-12-21 06:47:35'),
+(5, 'berharap yg terbaik untuk teman teman', '2024-12-21 06:47:35'),
 (6, 'tes\n', '2024-12-23 03:50:00'),
 (7, 'merry', '2024-12-23 04:11:37'),
 (8, 'dsds', '2024-12-23 04:13:22'),
